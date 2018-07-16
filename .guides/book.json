@@ -1,0 +1,17 @@
+{
+ "name": "im hungrier",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "69a47fa3-9ebf-e571-9022-40ee7a2db5ee",
+   "pageId": "69a47fa3-9ebf-e571-9022-40ee7a2db5ee",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "d116c25e-3f93-eda0-7400-acff901f6f3c",
+   "pageId": "d116c25e-3f93-eda0-7400-acff901f6f3c",
+   "type": "page"
+  }
+ ]
+}
